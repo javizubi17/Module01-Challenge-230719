@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Module01-Challenge-230719 - FizzBuzz</Text>
+    <Description>Some description for Module01-Challenge-230719</Description>
+    <Assembly>Module01-Challenge-230719.dll</Assembly>
+    <FullClassName>Module01_Challenge_230719.FizzBuzz</FullClassName>
+    <ClientId>CB7126D7-AAE2-4144-80CC-EFE8E6878C91</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Module01-Challenge-230719 - Command 2</Text>
+    <Description>Some description for Module01-Challenge-230719</Description>
+    <Assembly>Module01-Challenge-230719.dll</Assembly>
+    <FullClassName>Module01_Challenge_230719.Command2</FullClassName>
+    <ClientId>582D900D-CE58-4091-912A-F61079D15764</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Module01-Challenge-230719</Name>
+    <Assembly>Module01-Challenge-230719.dll</Assembly>
+    <FullClassName>Module01_Challenge_230719.App</FullClassName>
+    <ClientId>FC5B267E-AFDD-4F60-AB5D-AAA3E7F79A7F</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,8 @@
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\bin\Debug\Module01-Challenge-230719.dll
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\bin\Debug\Module01-Challenge-230719.pdb
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\obj\Debug\Module01-Challenge-230719.csproj.AssemblyReference.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\obj\Debug\Module01_Challenge_230719.Properties.Resources.resources
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\obj\Debug\Module01-Challenge-230719.csproj.GenerateResource.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\obj\Debug\Module01-Challenge-230719.csproj.CoreCompileInputs.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\obj\Debug\Module01-Challenge-230719.dll
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module01-Challenge-230719\obj\Debug\Module01-Challenge-230719.pdb
